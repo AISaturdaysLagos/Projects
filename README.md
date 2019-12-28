@@ -34,12 +34,25 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 4. Natural Language Processing Track
 
 
+## Community Inspired Projects
+1. [Easy Neural Style Transfer With Google Colab](https://medium.com/@lawrencedikeu/easy-neural-style-transfer-with-google-colab-a3264789d6ed) by Lawrence Francis
+
+2. [Image Classification with Fast AI](https://medium.com/@kennydukor/image-classification-with-fast-ai-at-last-something-that-works-with-little-effort-56d3abe7c542) by Kenechi Franklin Dukor
+
+## Kaggle Hackathons
+1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in collaboration with the Lagos Women in Machine Learning and Data Science 
+
+2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon)organized in collaboration with InstaDeep and Lagos Women in Machine Learning and Data Science.  
+
+3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018)organized in collaboration with DeepQuest AI.
+
+
 ### Articles Inspired by the Community
 1. [Ripples of the Wave of Change](https://medium.com/ai-saturdays/ripples-of-the-wave-of-change-95178e728d0b) by Olalekan Olapeju
 
 2. [Leveraging on Google Colab](https://medium.com/ai-saturdays/aisaturdaylagos-leveraging-on-google-colab-313bab053603) by Owoeye Gabriel
 
-3. [Classification of Nigeria Currency Notes Using Fastai Framework](https://medium.com/ai-saturdays/aisaturdaylagos-classification-of-nigeria-currency-notes-using-fastai-framework-2fdcedc174e0) By Kenechi Franklin Dukor
+3. [Classification of Nigeria Currency Notes Using Fastai Framework](https://medium.com/ai-saturdays/aisaturdaylagos-classification-of-nigeria-currency-notes-using-fastai-framework-2fdcedc174e0) by Kenechi Franklin Dukor
 
 4. [Basic Overview of Convolutional Neural Networks](https://medium.com/dataseries/basic-overview-of-convolutional-neural-network-cnn-4fcc7dbb4f17?) by Udeme Udofi
 
@@ -47,11 +60,10 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 6. [Lagos AI Hackathon 1](https://medium.com/ai-saturdays/aisaturdaylagos-lagosaihack-8479b3f53169) by Tejumade Afonja
 
+7. [Lagos AI Hackathon 2](https://medium.com/ai-saturdays-lagos-articles/lagos-ai-hackathon-lagosaihack-2nd-edition-d4258c662d51) by Tejumade Afonja
 
-## Kaggle Hackathons
-1. [Lagos AI Hack](https://www.kaggle.com/c/lagos-ai-hackathon) organized in collaboration with the Lagos Women in Machine Learning and Data Science
+8. [HackExpo — Into the future](https://deepquestai.com/HackExpo/) by DeepQuest AI
 
-2. 
 
 
 ## Recaps on Classes
