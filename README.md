@@ -40,11 +40,11 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 2. [Image Classification with Fast AI](https://medium.com/@kennydukor/image-classification-with-fast-ai-at-last-something-that-works-with-little-effort-56d3abe7c542) by Kenechi Franklin Dukor
 
 ## Kaggle Hackathons
-1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in collaboration with the Lagos Women in Machine Learning and Data Science 
+1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with the Lagos Women in Machine Learning and Data Science 
 
-2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon)organized in collaboration with InstaDeep and Lagos Women in Machine Learning and Data Science.  
+2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon)organized in partnership with InstaDeep and Lagos Women in Machine Learning and Data Science.  
 
-3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018)organized in collaboration with DeepQuest AI.
+3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018)organized in partnership with DeepQuest AI.
 
 
 ### Articles Inspired by the Community
@@ -56,7 +56,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 4. [Basic Overview of Convolutional Neural Networks](https://medium.com/dataseries/basic-overview-of-convolutional-neural-network-cnn-4fcc7dbb4f17?) by Udeme Udofi
 
-5. [The Brain And The Model](https://medium.com/@kennydukor/the-brain-and-the-model-c82ff48f9867) by Kenechi Franklin Dukor
+5. [The Brain and the Model](https://medium.com/@kennydukor/the-brain-and-the-model-c82ff48f9867) by Kenechi Franklin Dukor
 
 6. [Lagos AI Hackathon 1](https://medium.com/ai-saturdays/aisaturdaylagos-lagosaihack-8479b3f53169) by Tejumade Afonja
 
@@ -64,6 +64,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 8. [HackExpo — Into the future](https://deepquestai.com/HackExpo/) by DeepQuest AI
 
+9. [Bridging the Artificial Intelligence (AI) Gap with AISaturdays](https://medium.com/ai-saturdays/bridging-the-artificial-intelligence-ai-gaps-with-ai6-9a5cf0b910f8) by Tejumade Afonja
 
 
 ## Recaps on Classes
