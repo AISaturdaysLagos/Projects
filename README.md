@@ -42,7 +42,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 ## Kaggle Hackathons
 1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with Lagos Women in Machine Learning and Data Science 
 
-2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon)organized in partnership with InstaDeep and Lagos Women in Machine Learning and Data Science.  
+2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon) organized in partnership with InstaDeep and Lagos Women in Machine Learning and Data Science.  
 
 3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018) organized in partnership with DeepQuest AI.
 
