@@ -40,11 +40,11 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 2. [Image Classification with Fast AI](https://medium.com/@kennydukor/image-classification-with-fast-ai-at-last-something-that-works-with-little-effort-56d3abe7c542) by Kenechi Franklin Dukor
 
 ## Kaggle Hackathons
-1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with the Lagos Women in Machine Learning and Data Science 
+1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with Lagos Women in Machine Learning and Data Science 
 
 2. [Lagos AI Hack2: Predict Hourly Taxi Ride](https://www.kaggle.com/c/lagosaihackathon)organized in partnership with InstaDeep and Lagos Women in Machine Learning and Data Science.  
 
-3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018)organized in partnership with DeepQuest AI.
+3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018) organized in partnership with DeepQuest AI.
 
 
 ### Articles Inspired by the Community
