@@ -21,6 +21,18 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 ## Cohort 2 Projects
 
+## Cohort 3 Projects
+
+1. Machine Learning Track
+2. Deep Learning Track
+
+## Cohort 4 Projects
+
+1. Data Science Track
+2. Machine Learning Track
+3. Computer Vision Track
+4. Natural Language Processing Track
+
 
 ### Articles Inspired by the Community
 1. [Ripples of the Wave of Change](https://medium.com/ai-saturdays/ripples-of-the-wave-of-change-95178e728d0b) by Olalekan Olapeju
@@ -33,7 +45,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 5. [The Brain And The Model](https://medium.com/@kennydukor/the-brain-and-the-model-c82ff48f9867) by Kenechi Franklin Dukor
 
-6. [Lagos AI Hackathon 1] (https://medium.com/ai-saturdays/aisaturdaylagos-lagosaihack-8479b3f53169) by Tejumade Afonja
+6. [Lagos AI Hackathon 1](https://medium.com/ai-saturdays/aisaturdaylagos-lagosaihack-8479b3f53169) by Tejumade Afonja
 
 
 ## Kaggle Hackathons
