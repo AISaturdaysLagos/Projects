@@ -1,8 +1,8 @@
-## Cohort 1
+## Cohort 1 Projects
 
-The project was about exploring the different deeplearning frameworks. We group our students into 5 groups, namely TensorFlow, PyTorch, Keras, Neon and Theano.
+The project was about exploring the different deeplearning frameworks. We grouped our students into 5 groups, namely TensorFlow, PyTorch, Keras, Neon and Theano.
 
-1. Group PyTorch led by George Igwegbe. Team members include Ezerioha Somtochukwu, Ayodeji Oluwajoba, Chidi, Seun Lawal and Victor O.\
+1. Group PyTorch led by George Igwegbe. Other team members include Ezerioha Somtochukwu, Ayodeji Oluwajoba, Chidi, Seun Lawal and Victor O.\
 a. [Article: The Torch Panther](https://medium.com/fbdevclagos/ai6-the-torch-panther-38a778ae8962?)
 
 2. Group Tensorflow  led by Todun. Other team members includes Ejiro Onose, Tella Babatunde, Ibrahim Gbadegeshin, Juwe C. Raphael and Tunde Osborne \
@@ -15,8 +15,12 @@ a. [Ancestral Intelligence (AI) with Granny Theano](https://medium.com/ai-saturd
 4. Group Keras led by Olalekan Olapeju. Other team members include Aderinto Sadiq and Olusegun Komolafe\
 a. [“Karessing” Deep Learning with Keras](https://medium.com/ai-saturdays/aisaturdaylagos-karessing-deep-learning-with-keras-1e9b96d2d013)
 
-5. Group Nervana Neon led by Stanley Obumneme Dukor. Other team members include Orevaoghene Ahia, Ejike Richard, Adetola Adetunji, Osho Olumuyiwa, Ahmed Olanrewaju, Moses Ayomide \
-1. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/aisaturdaylagos-nervana-neon-the-fastest-framework-alive-77e69385ed78)
+5. Group Nervana Neon led by Stanley Obumneme Dukor. Other team members include Orevaoghene Ahia, Ejike Richard, Adetola Adetunji, Osho Olumuyiwa, Ahmed Olanrewaju, Moses Ayomide\
+a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/aisaturdaylagos-nervana-neon-the-fastest-framework-alive-77e69385ed78)
+
+
+## Cohort 2 Projects
+
 
 ### Articles Inspired by the Community
 1. [Ripples of the Wave of Change](https://medium.com/ai-saturdays/ripples-of-the-wave-of-change-95178e728d0b) by Olalekan Olapeju
