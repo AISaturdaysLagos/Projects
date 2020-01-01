@@ -63,7 +63,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 2. [Image Classification with Fast AI](https://medium.com/@kennydukor/image-classification-with-fast-ai-at-last-something-that-works-with-little-effort-56d3abe7c542) by Kenechi Franklin Dukor
 
-3. [QR-based Attendance Tracka] (http://#) by Tejumade Afonja and Kenechi Franklin Dukor
+3. [QR-based Attendance Tracka](http://#) by Tejumade Afonja and Kenechi Franklin Dukor
 
 ## Kaggle Hackathons
 1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with Lagos Women in Machine Learning and Data Science 
