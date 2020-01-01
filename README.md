@@ -24,7 +24,24 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 ## Cohort 3 Projects
 
 1. Machine Learning Track
+
+1. Music Popularity Prediction
+2.  Using some Economic Factors to predict the Fertility Rate of a Country (United State as a Case Study)
+3. Predicting the market value of premiere league footballers
+4. Car Prize prediction based on age and mileage
+5. Black Friday Price Predictor
+6. Car price predictions using age and mileage
+7. Predicting Outlet Typer Using Big Mart Dataset
+8. Flight Ticket Price Prediction
+9. Regression Model for Fertility Detection Based on Economic Factors
+10. AI16 Salary Predictor Forbes Recruits
+
 2. Deep Learning Track
+
+1. Image Segmentation
+2. Object Detection
+3. Neural Style Transfer
+4. Face Recognition / Verification
 
 ## Cohort 4 Projects
 
