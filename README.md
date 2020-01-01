@@ -23,22 +23,20 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 ## Cohort 3 Projects
 
-### Machine Learning Track
+1. Machine Learning Track
 
-1. Fraud Detection and Prediction Challenges 
-2. Car Prize prediction based on age and mileage
-3. Predicting Outlet type using Big Mart Dataset
-4. Using Economic Factors to detect the Fertility Rate of a Country (United States a case study)
-5. Opportunities and Threat to AI application in Agriculture
-6. Prediction average customer spend
-7. AI16 Tech LLC Salary Predictor Model for New Recruit
-8. Risk Classification in Insurance industry
-9. Flight ticket price prediction
-10. Black Friday Price Predictor
-11. Predicting Market Value of Premier League Players
-12. Music Recommender System
+1. Music Popularity Prediction
+2.  Using some Economic Factors to predict the Fertility Rate of a Country (United State as a Case Study)
+3. Predicting the market value of premiere league footballers
+4. Car Prize prediction based on age and mileage
+5. Black Friday Price Predictor
+6. Car price predictions using age and mileage
+7. Predicting Outlet Typer Using Big Mart Dataset
+8. Flight Ticket Price Prediction
+9. Regression Model for Fertility Detection Based on Economic Factors
+10. AI16 Salary Predictor Forbes Recruits
 
-### Deep Learning Track
+2. Deep Learning Track
 
 1. Image Segmentation
 2. Object Detection
@@ -47,11 +45,17 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 ## Cohort 4 Projects
 
-1. Data Science Track
-2. Machine Learning Track
-3. Computer Vision Track
-4. Natural Language Processing Track
-
+### 1. Data Science Track
+- 
+- [Assesing issues around poverty in Nigeria](https://github.com/popoolaio/Poverty-in-Nigeria) by Popoola Isiaka Olamilekan, Kosisochukwu Akaeze, Henry Adeyemi, Temitayo Olanrewaju, Oluwaseun Adepegba, Saheed Adetomiwa, Abiodun Quadri and Ehinloju Nike
+- [INQUIRY ON THE LIVING STANDARD OF NIGERIANS](https://github.com/sharonibejih/AI-SATURDAY-PROJECT/blob/master/Project%20Analysis.ipynb) by SHARON IBEJIH
+- [Solving Poverty through Digital Economy](https://github.com/kayodeakanni/Forthinkn) by Olukayode Akanni
+### 2. Machine Learning Track
+- [Exploring MNIST dataset using Tensorflow] (https://github.com/Euchigere/Mnist-TensorFlow) by Chigere Emmanuel Ugochukwu
+### 3. Computer Vision Track
+- [Sentiment Analysis on Human Faces](http://github.com/Free-tek/Sentiment_Analysis_For_Human_Face) by Adewole Babatunde
+### 4. Natural Language Processing Track
+- [Anjie - a library for generating corpus in various african languages](http://github.com/Free-tek/Anjie_local_language_corpus_generator) by Adewole Babatunde
 
 ## Community Inspired Projects
 1. [Easy Neural Style Transfer With Google Colab](https://medium.com/@lawrencedikeu/easy-neural-style-transfer-with-google-colab-a3264789d6ed) by Lawrence Francis
