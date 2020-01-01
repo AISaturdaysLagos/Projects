@@ -51,7 +51,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 - [INQUIRY ON THE LIVING STANDARD OF NIGERIANS](https://github.com/sharonibejih/AI-SATURDAY-PROJECT/blob/master/Project%20Analysis.ipynb) by SHARON IBEJIH
 - [Solving Poverty through Digital Economy](https://github.com/kayodeakanni/Forthinkn) by Olukayode Akanni
 ### 2. Machine Learning Track
-- [Exploring MNIST dataset using Tensorflow] (https://github.com/Euchigere/Mnist-TensorFlow) by Chigere Emmanuel Ugochukwu
+- [Exploring MNIST dataset using Tensorflow](https://github.com/Euchigere/Mnist-TensorFlow) by Chigere Emmanuel Ugochukwu
 ### 3. Computer Vision Track
 - [Sentiment Analysis on Human Faces](http://github.com/Free-tek/Sentiment_Analysis_For_Human_Face) by Adewole Babatunde
 ### 4. Natural Language Processing Track
@@ -62,6 +62,8 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 1. [Easy Neural Style Transfer With Google Colab](https://medium.com/@lawrencedikeu/easy-neural-style-transfer-with-google-colab-a3264789d6ed) by Lawrence Francis
 
 2. [Image Classification with Fast AI](https://medium.com/@kennydukor/image-classification-with-fast-ai-at-last-something-that-works-with-little-effort-56d3abe7c542) by Kenechi Franklin Dukor
+
+3. [QR-based Attendance Tracka] (http://#) by Tejumade Afonja and Kenechi Franklin Dukor
 
 ## Kaggle Hackathons
 1. [Lagos AI Hack: Chow Land](https://www.kaggle.com/c/lagos-ai-hackathon) organized in partnership with Lagos Women in Machine Learning and Data Science 
@@ -78,7 +80,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 3. [Classification of Nigeria Currency Notes Using Fastai Framework](https://medium.com/ai-saturdays/aisaturdaylagos-classification-of-nigeria-currency-notes-using-fastai-framework-2fdcedc174e0) by Kenechi Franklin Dukor
 
-4. [Basic Overview of Convolutional Neural Networks](https://medium.com/dataseries/basic-overview-of-convolutional-neural-network-cnn-4fcc7dbb4f17?) by Udeme Udofi
+4. [Basic Overview of Convolutional Neural Networks](https://medium.com/dataseries/basic-overview-of-convolutional-neural-network-cnn-4fcc7dbb4f17?) by Udeme Udofia
 
 5. [The Brain and the Model](https://medium.com/@kennydukor/the-brain-and-the-model-c82ff48f9867) by Kenechi Franklin Dukor
 
