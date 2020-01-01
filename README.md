@@ -54,6 +54,17 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 - [Exploring MNIST dataset using Tensorflow](https://github.com/Euchigere/Mnist-TensorFlow) by Chigere Emmanuel Ugochukwu
 ### 3. Computer Vision Track
 - [Sentiment Analysis on Human Faces](http://github.com/Free-tek/Sentiment_Analysis_For_Human_Face) by Adewole Babatunde
+
+
+    **Mini-projects**
+     1. llcolorizer: a program that uses low-level computer vision techniques to give color to grayscale images
+     2. cartoonize: cartoon effect on images
+     - [llcolorizer and cartoonize](https://github.com/timi-ty/MiniCV) by [timi-ty](https://github.com/timi-ty)
+     - [cartoonize](https://github.com/aloko001/Cartoonize) by [aloko001](https://github.com/aloko001)
+     - [llcolorizer](https://github.com/Merkll/llcolorizer) by [Merkll](https://github.com/Merkll)
+     - [cartoonize](https://github.com/SSInimgba/Computer_Vision/blob/master/Cartoonize_an_Image.ipynb) by [SSInimgba](https://github.com/SSInimgba)
+     - [cartoonize](https://github.com/Free-tek/Image-Cartoonizer-Computer-Vision/blob/master/Cartoonizer.ipynb) by [Free-tek](https://github.com/Free-tek)
+
 ### 4. Natural Language Processing Track
 - [Text Classification of Clinical notes](http://github.com/itsclint/Dasha) by Mbataku Clinton
 - [Anjie - a library for generating corpus in various african languages](http://github.com/Free-tek/Anjie_local_language_corpus_generator) by Adewole Babatunde
