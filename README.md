@@ -46,7 +46,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 ## Cohort 4 Projects
 
 ### 1. Data Science Track
-- 
+- [Development and Deployement of an Employee Promotion Predictor Model](http://promotion-model.herokuapp.com) by [Taiwo Owoseni](http://twitter.com/thayehas)
 - [Assesing issues around poverty in Nigeria](https://github.com/popoolaio/Poverty-in-Nigeria) by Popoola Isiaka Olamilekan, Kosisochukwu Akaeze, Henry Adeyemi, Temitayo Olanrewaju, Oluwaseun Adepegba, Saheed Adetomiwa, Abiodun Quadri and Ehinloju Nike
 - [INQUIRY ON THE LIVING STANDARD OF NIGERIANS](https://github.com/sharonibejih/AI-SATURDAY-PROJECT/blob/master/Project%20Analysis.ipynb) by SHARON IBEJIH
 - [Solving Poverty through Digital Economy](https://github.com/kayodeakanni/Forthinkn) by Olukayode Akanni
@@ -55,6 +55,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 ### 3. Computer Vision Track
 - [Sentiment Analysis on Human Faces](http://github.com/Free-tek/Sentiment_Analysis_For_Human_Face) by Adewole Babatunde
 ### 4. Natural Language Processing Track
+- [Text Classification of Clinical notes](http://github.com/itsclint/Dasha) by Mbataku Clinton
 - [Anjie - a library for generating corpus in various african languages](http://github.com/Free-tek/Anjie_local_language_corpus_generator) by Adewole Babatunde
 
 ## Community Inspired Projects
