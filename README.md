@@ -69,6 +69,35 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 - [Text Classification of Clinical notes](http://github.com/itsclint/Dasha) by Mbataku Clinton
 - [Anjie - a library for generating corpus in various african languages](http://github.com/Free-tek/Anjie_local_language_corpus_generator) by Adewole Babatunde
 
+## Cohort 5 Projects
+
+### 1. Data Science and Machine Learning Track
+- [Breast Cancer Prediction](https://docs.google.com/presentation/d/1YFAjJcnwV5khvXEQjQ4cmcfPlpI-Rbt4/edit#slide=id.p1) by Blessing Orji, Chidinma Ukaegbu, Damilola Onanuga, Fatimah Salami, Genevieve Nwagwu and Kingsley Makinde
+- [Red Wine Quality Prediction](https://drive.google.com/file/d/10h-F1FxfEZmZT6kvZc_aNoAvJ7CNf-hD/view) by Olorondu Chizurum, Babatunde koiki, Erinfolami Emmanuel, Sandra Orji, Obiora Maduakor, Sodiq Agunbiade, Modurotolu Olokode, Orutorojo Okiogbero Michael, Shukurat Bello
+- [Customer Defection Prediction](https://docs.google.com/presentation/d/178wAFqr_P3OAcbvLBIlN9OU6uejP7HzcGlwdHRj_imE/edit?usp=sharing) by Fortune Adekogbe, Jamiu Alayande, Ademola Atolagbe, Mayowa Oludoyi, Umukulthum Eniafe
+- [Loan Prediction](https://docs.google.com/presentation/d/1GjwqixzuBEHBH9uAQoEanI_ywheRexZk7yah6A_D_V0/edit#slide=id.gc6f90357f_0_9) by Qodri Hassan, Bosede Ajayi, Raphael Patrick Affiah, Chibueze Joseph
+- [Bicycle Sharing](https://docs.google.com/presentation/d/1_L4842lHremgFJWuHBoEOEHphvEGN7BnFS46Wylx3fw/edit?usp=sharing) by Wale Alashe, Faeyi Bilikis Abiola, Idris Lawal, Idris Adeyemi, Victor
+- [Customer Segmentation](https://docs.google.com/presentation/d/1GjwqixzuBEHBH9uAQoEanI_ywheRexZk7yah6A_D_V0/edit#slide=id.gc6f90357f_0_9) by Olumayowa Omotunde, Olusola Aremu, Simeon Vibbi, Igweonu Chiamaka, Esenwa Chukwudinma, Alo Oluwatobiloba, Misturah Odesanya, Elelu Kehinde , Adekola Kamaldeen
+
+### 2. Deep Learning Track
+- [Face Emotion Recognition](https://github.com/AI6DLProject/Facial-emotion-classifier/blob/master/Ai6_Facial_Expression_Recognition_Project_Presentation_Slides.pptx) by Ojeifo Oziegbe, Ayodele Adebayo, Kayode Akanni, Praise Taiwo, Sharon Ibejih
+- [An English Chatbot](https://github.com/kosi-so/Simple-Chatbot-with-Pytorch) by Akaeze Kosisochukwu
+
+
+    **Mini-projects**
+     1. llcolorizer: a program that uses low-level computer vision techniques to give color to grayscale images
+     2. cartoonize: cartoon effect on images
+     - [llcolorizer and cartoonize](https://github.com/timi-ty/MiniCV) by [timi-ty](https://github.com/timi-ty)
+     - [cartoonize](https://github.com/aloko001/Cartoonize) by [aloko001](https://github.com/aloko001)
+     - [llcolorizer](https://github.com/Merkll/llcolorizer) by [Merkll](https://github.com/Merkll)
+     - [cartoonize](https://github.com/SSInimgba/Computer_Vision/blob/master/Cartoonize_an_Image.ipynb) by [SSInimgba](https://github.com/SSInimgba)
+     - [cartoonize](https://github.com/Free-tek/Image-Cartoonizer-Computer-Vision/blob/master/Cartoonizer.ipynb) by [Free-tek](https://github.com/Free-tek)
+
+### 4. Natural Language Processing Track
+- [Text Classification of Clinical notes](http://github.com/itsclint/Dasha) by Mbataku Clinton
+- [Anjie - a library for generating corpus in various african languages](http://github.com/Free-tek/Anjie_local_language_corpus_generator) by Adewole Babatunde
+
+
 ## Community Inspired Projects
 1. [Easy Neural Style Transfer With Google Colab](https://medium.com/@lawrencedikeu/easy-neural-style-transfer-with-google-colab-a3264789d6ed) by Lawrence Francis
 
