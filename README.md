@@ -73,7 +73,9 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 
 ### 1. Data Science and Machine Learning Track
 - [Breast Cancer Prediction](https://docs.google.com/presentation/d/1YFAjJcnwV5khvXEQjQ4cmcfPlpI-Rbt4/edit#slide=id.p1) by Blessing Orji, Chidinma Ukaegbu, Damilola Onanuga, Fatimah Salami, Genevieve Nwagwu and Kingsley Makinde
+
 - [Red Wine Quality Prediction](https://drive.google.com/file/d/10h-F1FxfEZmZT6kvZc_aNoAvJ7CNf-hD/view) by Olorondu Chizurum, Babatunde koiki, Erinfolami Emmanuel, Sandra Orji, Obiora Maduakor, Sodiq Agunbiade, Modurotolu Olokode, Orutorojo Okiogbero Michael, Shukurat Bello
+[Video](https://www.youtube.com/watch?v=DEumopgqjB8)
 - [Customer Defection Prediction](https://docs.google.com/presentation/d/178wAFqr_P3OAcbvLBIlN9OU6uejP7HzcGlwdHRj_imE/edit?usp=sharing) by Fortune Adekogbe, Jamiu Alayande, Ademola Atolagbe, Mayowa Oludoyi, Umukulthum Eniafe
 - [Loan Prediction](https://docs.google.com/presentation/d/1GjwqixzuBEHBH9uAQoEanI_ywheRexZk7yah6A_D_V0/edit#slide=id.gc6f90357f_0_9) by Qodri Hassan, Bosede Ajayi, Raphael Patrick Affiah, Chibueze Joseph
 - [Bicycle Sharing](https://docs.google.com/presentation/d/1_L4842lHremgFJWuHBoEOEHphvEGN7BnFS46Wylx3fw/edit?usp=sharing) by Wale Alashe, Faeyi Bilikis Abiola, Idris Lawal, Idris Adeyemi, Victor
