@@ -107,6 +107,24 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 3. [HackExpo -  Road Traffic Congestion](https://www.kaggle.com/c/hackexpo2018) organized in partnership with DeepQuest AI.
 
 
+## CohereAIHack Hackathon Projects
+1. [Multilingual Semantic Search for Video](https://github.com/lawalbolaji/Multilingual-Semantic-Search-for-Video/tree/main)
+2. [Content Moderation Cohere AI App](https://github.com/fMurugi/content-moderation-cohere-ai-app/tree/master)
+3. [Dobby](https://github.com/beesaferoot/dobby)
+4. [Cohere Text Classifier for Customer Service Ticket Classification](https://github.com/faisalm93/requestclassifier)
+5. [Multilingual Content Generator](https://github.com/alaminmagaga/contentgenerator)
+6. [Cohere Parallel Language Sentence Alignment](https://github.com/lukmanaj/Cohere-Parallel-Language-Sentence-Alignment/tree/main)
+7. [Document CoFinder](https://github.com/KayO-GH/Document-Semantic-Search)
+8. [Bible App](https://github.com/Ramond-king05/Data-Geeks)
+9. [Content Generator and Summarizer](https://github.com/abiola9525/Cohere_AI-AI-Saturday-Hackathon)
+10. [Cross-Lingual Similarity and Semantic Search with Cohere Multilingual API](https://github.com/Muhammad0isah/SemanticSearch)
+11. [Internal Health](https://github.com/Tosin5S/team-coherent)
+12. [Teaching and Learning made easy with cohere ai](https://github.com/gabrielzencha/cohere_hackathon)
+13. [Multilingual African News Clustering and Semantic System](https://github.com/teejay13/AfriNews_Cluster)
+14. [Nexus News](https://github.com/bideeen/NewsNexus/tree/main)
+15. [MultiLingo Multilanguage Text Summarization for Everyone](https://github.com/Aybee5/MultiLingo)
+16. [Òmòwé.ai](https://github.com/Paulooh007/omowe.ai)
+
 ### Articles Inspired by the Community
 1. [Ripples of the Wave of Change](https://medium.com/ai-saturdays/ripples-of-the-wave-of-change-95178e728d0b) by Olalekan Olapeju
 
