@@ -48,7 +48,7 @@ a. [Nervana Neon, the fastest framework alive](https://medium.com/ai-saturdays/a
 ### 1. Data Science Track
 - [Development and Deployement of an Employee Promotion Predictor Model](http://promotion-model.herokuapp.com) by [Taiwo Owoseni](http://twitter.com/thayehas)
 - [Assesing issues around poverty in Nigeria](https://github.com/popoolaio/Poverty-in-Nigeria) by Popoola Isiaka Olamilekan, Kosisochukwu Akaeze, Henry Adeyemi, Temitayo Olanrewaju, Oluwaseun Adepegba, Saheed Adetomiwa, Abiodun Quadri and Ehinloju Nike
-- [INQUIRY ON THE LIVING STANDARD OF NIGERIANS](https://github.com/sharonibejih/AI-SATURDAY-PROJECT/blob/master/Project%20Analysis.ipynb) by SHARON IBEJIH
+- [INQUIRY ON THE LIVING STANDARD OF NIGERIANS](https://github.com/sharonibejih/Analysis-on-Nigerians-Demography/blob/master/Nigerians%20Demography%20Analysis.ipynb) by SHARON IBEJIH
 - [Solving Poverty through Digital Economy](https://github.com/kayodeakanni/Forthinkn) by Olukayode Akanni
 ### 2. Machine Learning Track
 - [Exploring MNIST dataset using Tensorflow](https://github.com/Euchigere/Mnist-TensorFlow) by Chigere Emmanuel Ugochukwu
